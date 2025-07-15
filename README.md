@@ -2,9 +2,8 @@
 Interactive Tableau Dashboard: IBM Employee Attrition Analysis
 
 ## 📊 Project Overview
-
 This project explores the IBM Analytics sample dataset to uncover key insights about employee attrition. 
-Using Tableau, I built an interactive dashboard that visualizes how different factors — such as job role, distance from home, education level, and monthly income — influence an employee's likelihood to leave the company.
+Using Tableau, I built an interactive dashboard that visualizes how different factors such as job role, distance from home, education level, and monthly income influence an employee's likelihood to leave the company.
 
 ## 🧠 Key Questions Explored
 - How does attrition vary by job role and distance from home?
