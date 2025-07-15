@@ -17,9 +17,10 @@ Using Tableau, I built an interactive dashboard that visualizes how different fa
 - IBM sample dataset (fictional HR data) --> https://www.kaggle.com/datasets/rohitsahoo/employee
 
 ## 📁 Files
-- `ibm_employee_attrition_dashboard.twbx` — Tableau dashboard file
+- `/dashboard/` — `ibm_employee_attrition_dashboard.twbx` — Tableau dashboard file
 - `/images/` — screenshots of the dashboard
-- `README.md` — project summary and insights
+- `/data/test.csv + train.csv` — raw dataset used for analysis  
+- `README.md` — project description, insights, and dataset overview
 
 ## 📌 Insights
 - Job roles such as Sales Representative show higher attrition rates
