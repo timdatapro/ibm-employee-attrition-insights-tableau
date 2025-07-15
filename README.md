@@ -13,7 +13,7 @@ Using Tableau, I built an interactive dashboard that visualizes how different fa
 
 ## 🔧 Tools Used
 - Tableau (for data visualization)
-- IBM Watson sample dataset (fictional HR data)
+- IBM sample dataset (fictional HR data) --> https://www.kaggle.com/datasets/rohitsahoo/employee
 
 ## 📁 Files
 - `employee_attrition_dashboard.twbx` — Tableau dashboard file
